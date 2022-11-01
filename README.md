@@ -14,6 +14,23 @@ Contribute to start your journey with hacktoberfest and python. Happy HackingðŸ’
 
 Don't forget to read the contributing rules to be successfully merged your PR and get rewards!!! Visit Hacktoberfest to get more information about Hacktoberfest 2022!!! Visit Hacktoberfest-swag to know more about your swags and rewards!!!
 
+Programs
+Write a program to scrap wifi passords.
+Write a program to Rock paper game.
+Write a program to design a HTML ecommerce pagge.
+Write a program to check a given number is armstrong or not.
+Write a program to find different between sum and product of a number.
+Write a program to find all setbits in a number.
+Write a program to print the Floyds triangle.
+Write a program to swap the values of two variables.
+Write a program to find given number is power of two or not.
+Write a program to print the reverse of a given string.
+Write a program to merge two sorted array without extra space.
+Write a program to count vowel in a given string.
+Write a program for addition two nxm matrices.
+Write a program for multiplication fo nxm matrices.
+and many more...
+
 Note: All contributors who have followed the rules to contribute get successfully merged PR. Don't forget to follow!!! Don't forget to star this repo. Don't forget to add your name at contributors. Always make more then 4 pull request, lets you have made only 4 pull request to different projects but one project is excluded from hackoctoberfest event then your pull request will not be count and then you have remains 3 valid pull request if these projects is not excluded. if you fail to make 4 pull request then you can't get swags.
 
 I will recommend you make pull request to your own repo which is very very saffest side for you.. keep in mind that repo has hacktoberfest topic.. #Happy Hacking ðŸ’»
